@@ -1,3 +1,8 @@
+### *Note original not working (need to install addition)
+``` npm install --save-dev core-js@2.6.5 ```
+##### (Thanks to https://github.com/creativetimofficial/vue-light-bootstrap-dashboard/issues/30)
+### -----------------------------------------------------------
+
 # [Vue Light Bootstrap Dashboard](http://vuejs.creative-tim.com/vue-light-bootstrap-dashboard) [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
 
 > Admin dashboard based on light bootstrap dashboard UI template + vue-router
